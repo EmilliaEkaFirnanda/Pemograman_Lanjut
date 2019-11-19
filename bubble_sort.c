@@ -23,7 +23,7 @@ int main() {
 			}
 		}
 	}
-	printf("\n\n ASCENDING SORTING ");
+	printf("\n\n ASCENDING SORTING BUBBLE SORT");
 	printf("\n Data setelah diurutkan : ");
 	for(i=0;i<8;i++){
 		printf("%d ",data[i]);
@@ -39,7 +39,7 @@ int main() {
 			}
 		}
 	}
-	printf("\n\n DESCENDING SORTING");
+	printf("\n\n DESCENDING SORTING BUBBLE SORT");
 	printf("\n Data setelah diurutkan : ");
 	for(i=0;i<8;i++){
 		printf("%d ",data[i]);
